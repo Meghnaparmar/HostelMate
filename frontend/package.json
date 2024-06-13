@@ -1,7 +1,7 @@
 {
   "name": "hostel-app",
   "version": "0.1.0",
-  "proxy": "http://https://hostelmate-ee3c3d9d90f3.herokuapp.com",
+  "proxy": "https://hostelmate.onrender.com",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
